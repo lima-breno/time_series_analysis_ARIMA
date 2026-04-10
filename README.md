@@ -39,12 +39,12 @@ seria um próximo passo lógico para incorporar explicitamente a sazonalidade e 
 
 #**🛠️ Tech Stack** 
 
-🐍 **Python** * 
+🐍 **Python** 
 
-🐼 **Pandas** * 
+🐼 **Pandas** 
 
-📊 **Matplotlib** * 
+📊 **Matplotlib** 
 
-🔢 **NumPy** * 
+🔢 **NumPy** 
 
 📉 **Statsmodels** (para decomposição, testes ADF, ACF, PACF e SARIMAX)
