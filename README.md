@@ -13,12 +13,13 @@ utilizando o modelo ARIMA (Autoregressive Integrated Moving Average). O objetivo
 6. **Avaliação e Interpretação do Modelo**
 
 # 📈 **Resultados do Projeto**
-* **Modelo Final:**
 
+* **Modelo Final:**
+**ARIMA(3,1,3) com AIC de 1194.053.
 <img width="1005" height="589" alt="image" src="https://github.com/user-attachments/assets/d296eb9a-9d44-4757-ac17-57656d974565" />
 
 
-ARIMA(3,1,3) com AIC de 1194.053.
+
 **Previsões:** O modelo realizou previsões que, em média, superestimam os valores reais (Erro Médio: -31.3).
 **Métricas de Erro:**
 
