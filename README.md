@@ -4,7 +4,7 @@ utilizando o modelo ARIMA (Autoregressive Integrated Moving Average). O objetivo
 
 🎯**Objetivo:** identificar a estrutura da série, garantir sua estacionariedade e avaliar a performance das previsões.
 
-📜# **Workflow do Projeto**
+#📜 **Workflow do Projeto**
 1. **Preparação, Tratamento e Carregamento de Dados**
 2. **Análise Exploratória e Decomposição da Série Temporal**
 3. **Testes de Estacionariedade e Autocorrelação**
@@ -12,7 +12,7 @@ utilizando o modelo ARIMA (Autoregressive Integrated Moving Average). O objetivo
 5. **Modelagem de Séries Temporais (ARIMA)**
 6. **Avaliação e Interpretação do Modelo**
 
-📈# **Resultados do Projeto**
+#📈 **Resultados do Projeto**
 * **Modelo Final:**
 ARIMA(3,1,3) com AIC de 1194.053.
 **Previsões:** O modelo realizou previsões que, em média, superestimam os valores reais (Erro Médio: -31.3).
@@ -24,7 +24,8 @@ ARIMA(3,1,3) com AIC de 1194.053.
 
   **MAPE:** 8.4 % (As previsões apresentam um desvio percentual médio de 8.4% dos valores reais, considerado razoável para a aplicação).
 
-📝 # **Conclusão**
+# 📝 **Conclusão**
+
 O projeto demonstrou a aplicação bem-sucedida das etapas de análise e modelagem de séries temporais não estacionárias utilizando o modelo ARIMA(3,1,3). Apesar de apresentar um desempenho razoável com um MAPE 
 de 8.4%, há espaço para melhorias, especialmente na abordagem da heteroskedasticidade dos resíduos e na otimização da ordem q dos termos de média móvel. A exploração de modelos SARIMAX (ARIMA Sazonal) 
 seria um próximo passo lógico para incorporar explicitamente a sazonalidade e potencialmente lidar com a variância não constante dos erros, visando a obtenção de previsões ainda mais precisas e robustas
