@@ -4,7 +4,7 @@ utilizando o modelo ARIMA (Autoregressive Integrated Moving Average). O objetivo
 
 🎯**Objetivo:** identificar a estrutura da série, garantir sua estacionariedade e avaliar a performance das previsões.
 
-#📜 **Workflow do Projeto**
+# 📜 **Workflow do Projeto**
 1. **Preparação, Tratamento e Carregamento de Dados**
 2. **Análise Exploratória e Decomposição da Série Temporal**
 3. **Testes de Estacionariedade e Autocorrelação**
@@ -12,7 +12,7 @@ utilizando o modelo ARIMA (Autoregressive Integrated Moving Average). O objetivo
 5. **Modelagem de Séries Temporais (ARIMA)**
 6. **Avaliação e Interpretação do Modelo**
 
-#📈 **Resultados do Projeto**
+# 📈 **Resultados do Projeto**
 * **Modelo Final:**
 ARIMA(3,1,3) com AIC de 1194.053.
 **Previsões:** O modelo realizou previsões que, em média, superestimam os valores reais (Erro Médio: -31.3).
